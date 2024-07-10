@@ -8,7 +8,7 @@ Website ini terdiri dari dua halaman yang di-hosting di container terpisah mengg
 
 ### Langkah-langkah
 
-1. Buat direktori `website-profil` dan file `index.html` di dalamnya dengan isi seperti berikut:
+1. Buat direktori `website-profil` dan file `index.html` juga file foto di dalamnya dengan isi seperti berikut:
     ```sh
     mkdir website-profil
     ```
